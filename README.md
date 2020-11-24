@@ -5,9 +5,9 @@ Simple script Boat and jet ski rental.
 Requires: mythic_notify
 
 To change the rental price:
-Clienet.lua / line 200, 204, 208.
+client.lua / line 200, 204, 208.
 
 To change notifications:
-Clienet.lua / line 57, 59, 61.
+client.lua / line 57, 59, 61.
 
 My Discord: MUN # 0001
